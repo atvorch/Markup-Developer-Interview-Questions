@@ -9,7 +9,7 @@ Markup Developer Interview Questions
   1. [Вопросы по jQuery](#jquery)
   1. ["Светская беседа"](#fun)
   
-### [[⬆]](#toc)<a name='general'>Общие вопросы:</a>
+### [[top]](#toc)<a name='general'>Общие вопросы:</a>
 
 ### [[⬆]](#toc)<a name='html'>Вопросы по HTML:</a>
 1. <details><summary>Что такое HTML?</summary><p>HyperText Markup Language — «язык гипертекстовойразметки») — стандартизированный язык разметки документов во Всемирной паутине. Большинство веб-страниц содержат описание разметки на языке HTML (или XHTML). Язык HTML интерпретируется браузерами;</p></details>
